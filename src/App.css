@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  color: #2D2D2D;
+}
+
+h1 {
+  margin: 20px 0 15px 0;
+}
+
+#main {
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+}
+
+.form-inline .form-control {
+  width: 50%;
+  margin-left: 80px;
+}
+
+.done {
+  color: red;
+  text-decoration: line-through;
+}
+
+.icon {
+  margin: 6px 10px 6px 0;
+}
